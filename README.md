@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Giuliani D. Sanches (@giulianisanches-inbev)
+- 👀 I’m interested in Cloud and DevOps culture. I really like to automate things and do some coding.
+- 🌱 I’m currently learning Azure and Azure DevOps
+- 💞️ I’m looking to collaborate on anything that need to be automated, mainly using Azure Pipelines
+- 📫 How to reach me: giuliani.sanches-ext@ab-inbev.com (e-mail or teams)
